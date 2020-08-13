@@ -11,6 +11,8 @@ module Memorable
   
   end
   
-  module InstanceMethod
+  module InstanceMethods
+    def initialize
+      self.
   
 end
