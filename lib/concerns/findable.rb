@@ -1,2 +1,3 @@
 module Findable 
-  module InstanceMethods
+  module ClassMethods
+    
